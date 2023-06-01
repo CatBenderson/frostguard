@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CatBenderson/frostguard/static/css/main.12f16fbe.css",
-    "main.js": "/CatBenderson/frostguard/static/js/main.a6a6a9be.js",
-    "static/js/787.b9576d71.chunk.js": "/CatBenderson/frostguard/static/js/787.b9576d71.chunk.js",
-    "index.html": "/CatBenderson/frostguard/index.html",
-    "main.12f16fbe.css.map": "/CatBenderson/frostguard/static/css/main.12f16fbe.css.map",
-    "main.a6a6a9be.js.map": "/CatBenderson/frostguard/static/js/main.a6a6a9be.js.map",
-    "787.b9576d71.chunk.js.map": "/CatBenderson/frostguard/static/js/787.b9576d71.chunk.js.map"
+    "main.css": "/frostguard/static/css/main.12f16fbe.css",
+    "main.js": "/frostguard/static/js/main.27d4ab32.js",
+    "static/js/787.b9576d71.chunk.js": "/frostguard/static/js/787.b9576d71.chunk.js",
+    "index.html": "/frostguard/index.html",
+    "main.12f16fbe.css.map": "/frostguard/static/css/main.12f16fbe.css.map",
+    "main.27d4ab32.js.map": "/frostguard/static/js/main.27d4ab32.js.map",
+    "787.b9576d71.chunk.js.map": "/frostguard/static/js/787.b9576d71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12f16fbe.css",
-    "static/js/main.a6a6a9be.js"
+    "static/js/main.27d4ab32.js"
   ]
 }
