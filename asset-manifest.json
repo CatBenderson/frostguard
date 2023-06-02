@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/frostguard/static/css/main.12f16fbe.css",
-    "main.js": "/frostguard/static/js/main.9d50632d.js",
+    "main.js": "/frostguard/static/js/main.eced5c2c.js",
     "static/js/787.b9576d71.chunk.js": "/frostguard/static/js/787.b9576d71.chunk.js",
     "index.html": "/frostguard/index.html",
     "main.12f16fbe.css.map": "/frostguard/static/css/main.12f16fbe.css.map",
-    "main.9d50632d.js.map": "/frostguard/static/js/main.9d50632d.js.map",
+    "main.eced5c2c.js.map": "/frostguard/static/js/main.eced5c2c.js.map",
     "787.b9576d71.chunk.js.map": "/frostguard/static/js/787.b9576d71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12f16fbe.css",
-    "static/js/main.9d50632d.js"
+    "static/js/main.eced5c2c.js"
   ]
 }
