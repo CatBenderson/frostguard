@@ -1,0 +1,111 @@
+
+
+.general {
+    text-align: center;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.generalForm {
+    text-align: center;
+    height: 100vh;
+    margin-top: 0px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    margin: 0px auto;
+    justify-content:space-around;
+    font-size: 20px;
+    width: 80vw;
+    text-align:center;
+}
+
+.divB {
+    width: 25vw;
+    display: inline-block;
+    border: 5px solid #0b1d21;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin: 1vh;
+    text-align: left;
+}
+
+.label{
+    color: #0b1d21;
+    padding: 1vw;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.input {
+    font-family: 'DM Sans', sans-serif;
+    display:block;
+    font-size: 16px;
+    border: 0 solid transparent;
+    border-radius: 3px;
+    margin: 1vw auto ;
+    width: 22vw;
+    padding: 20px;
+}
+
+.btn{
+    border: 1px solid transparent;
+    font-size: 20px;
+    font-family: 'DM Sans', sans-serif;
+    border-radius: 10px;
+    padding: 1vh 5vw;
+    margin: 1vh;
+    background-color:#e81e4a;
+    color: white;
+}
+
+.card{
+    margin: 1vh;
+    min-width: 280px;
+    width: 280px;
+    height: 280px;
+    border: 5px solid transparent;
+    border-radius: 50px;
+    background-color: #edd5c5;
+}
+
+.divCard{
+    display: flex;
+    padding: 2vh 2vw;
+    background-color:#078a85;
+    overflow-x: scroll;
+    /* #e81e4a; */
+}
+
+.divCard::-webkit-scrollbar {
+    width: 1px;
+}
+
+.h5{
+    margin: 5px;
+}
+
+.btnC{
+    border: 1px solid transparent;
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+    border-radius: 10px;
+    padding: 1vh 1vw;
+    margin: 1vh;
+    background-color:#e81e4a;
+    color: white;
+}
+
+.img{
+    margin: 1vh;
+    width: 64px;
+}
+.imgR{
+    margin-left: 2vw;
+    margin-top: 1vh;
+    
+}

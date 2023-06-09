@@ -1,0 +1,93 @@
+.leaflet-map{
+    height: 60vh;
+    width: 70vw;
+}
+
+.mapa {
+    display: flex;
+    margin: 1vh;
+}
+
+.chat {
+    margin: 0vh 1vh;
+    border: 5px solid transparent;
+    text-align:start;
+    background-color: #edd5c5;
+    min-height: 60vh;
+    height: 60vh;
+    max-height: 60vh;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    min-width: 27vw;
+    width: 27vw;
+    max-width: 27vw;
+}
+
+.mensajes {
+    margin: 1vh;
+    border: 1px solid transparent;
+    padding: 1vh;
+    background-color: #edd5c5;
+    min-height: 50vh;
+    height: 50vh;
+    max-height: 50vh;
+    overflow-x: scroll;
+    display: block;
+}
+
+.mensajes::-webkit-scrollbar {
+    width: 1px;
+}
+
+.mensajeI {
+    background-color: blueviolet;
+}
+
+.barraTxt {
+    text-align: end;
+    margin: 1vh;
+}
+
+.inputMsg {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    width: 75%;
+    border: 1px solid transparent;
+    border-bottom-left-radius: 10px;
+    height: 5vh;
+}
+
+.btnEnviar {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    width: 25%;
+    border: 1px solid transparent;
+    border-top-right-radius: 10px;
+    height: 5vh;
+    background-color:#e81e4a;
+}
+
+.datos {
+    margin: 0 auto;
+    justify-content:space-around;
+    font-size: 20px;
+    text-align:center;
+    background-color:#e81e4a;
+    padding: 1vh;
+}
+
+.datosI{
+    width: 20vw;
+    height: 19vh;
+    display: inline-block;
+    border: 5px solid #0b1d21;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin: 1vh 2vw;
+    padding: 1vh;
+    text-align: left;
+}
+
+.h3{
+    color: white;
+}
